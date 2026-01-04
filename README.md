@@ -102,7 +102,7 @@ No backend. No analytics. No tracking.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LifeOS.git
+   git clone https://github.com/talkingjupter/LifeOS.git
    ```
 2. Open LifeOS.xcodeproj in Xcode
 3. Select an iPhone device (notifications work best on real hardware)
