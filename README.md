@@ -109,7 +109,7 @@ No backend. No analytics. No tracking.
 4. Build and run
 5. Grant notification permission when prompted
 
---
+---
 
 ## Contributing
 
@@ -124,7 +124,7 @@ The architecture is designed so modules can be added without touching core logic
 
 Contribution guidelines will be added soon.
 
---
+---
 
 ## License
 
